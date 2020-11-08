@@ -1,0 +1,4 @@
+1.Wypakowac folder w katalogu domowym
+2.Przejsc w konsoli do folderu web_dev
+3.Podac komende docker-compose up
+4.Wejsc w przegladarke i wpisac 172.0.0.1:8000
